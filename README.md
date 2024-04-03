@@ -1,5 +1,5 @@
 ![Collage](documentation/wallpaper.png)
-# java-docker-environment
+# java_docker_environment
 ### Create a basic java docker environement, working with springboot/maven made with intellij IDEA.
 
 ----

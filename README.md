@@ -33,8 +33,10 @@ minimal configuration and setup.
     > 
     > Java: **17**
     > 
-    > **You must add** the web dependency: `Spring Web` 
+    > **You must add** the web dependency: `Spring Web`
 
+* Take care to open the new Spring project; otherwise, you may encounter difficulties accessing Maven configuration.
+  
 [//]: # (  * It will provide a zip file, it will become you project repository.)
 
 ---

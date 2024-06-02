@@ -1,5 +1,5 @@
 ![Collage](documentation/wallpaper.png)
-# java-docker-environment
+# java_docker_environment
 ### Create a basic java docker environement, working with springboot/maven made with intellij IDEA.
 
 ----
@@ -33,7 +33,7 @@ minimal configuration and setup.
     > 
     > Java: **17**
     > 
-    > **You must add** the web dependency: `Spring Web` 
+    > **You must add** the web dependency: `Spring Web`
 
   * Take care to open the new Spring project; otherwise, you may encounter difficulties accessing Maven configuration.
 
